@@ -1,0 +1,23 @@
+{
+	"BookName": "math",
+    "AuthorName":"nadim mollah",
+    "BelongsTo":"none"
+}
+
+{   
+    "rollId" : "1091231",
+    "Name" : "zeon",
+    "phone" : "nai",
+    "presentAddress" : "kije",
+    "parmanentAddress" : "nai",
+    "school" : "nai",
+    "college" : "nia"
+}
+
+{   
+    "rollId" : "1091231"
+}
+
+{
+    "BookId" : "book_1"
+}
