@@ -1,0 +1,1 @@
+Server project for an Library & Community management, a Beginner level of working with MERN/Full Stack Development. This repo contains Server part only done with Node.Js, MongoDB, Mongoose, Express JS. 
